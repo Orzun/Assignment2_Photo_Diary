@@ -132,7 +132,7 @@ span{
 
 	#header-wrapper
 {
-	background: url(images/chumrung/banner.jpg) no-repeat center;
+	background: url("images/chumrung/titlebackground.jpg") no-repeat center;
 	background-size: cover;
 }
 
